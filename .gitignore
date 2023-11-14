@@ -1,0 +1,8 @@
+*.log
+*.jou
+*.swp
+*.pb
+example_cpu_env
+example_cpu_env/**/*
+tools/bin
+tools/bin/**/*
