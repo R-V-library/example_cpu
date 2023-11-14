@@ -1,4 +1,4 @@
-name: Verible push request
+name: Verible lint push
 on:
   push:
 jobs:
