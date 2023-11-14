@@ -1,4 +1,4 @@
-name: Verible pull request
+name: Verible push request
 on:
   push:
 jobs:
